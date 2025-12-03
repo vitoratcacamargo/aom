@@ -6,6 +6,7 @@ const LEXICON = (
     verbs_intr = ["sleep", "run"],
     adjectives = ["big", "small"],
     wh_word = "what",
+    complementizer = "that",
 )
     
 end
